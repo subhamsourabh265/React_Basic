@@ -1,0 +1,8 @@
+.list-image {
+  width: 60%;
+  height: 60%;
+}
+
+.list-item {
+  flex: 1;
+}

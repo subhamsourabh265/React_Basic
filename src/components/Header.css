@@ -1,0 +1,14 @@
+header h2 {
+  color: #ffffff;
+}
+
+.header-main {
+  display: flex;
+  background: #054528;
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
