@@ -48,19 +48,44 @@ ul#list-item {
   color: #fff;
   list-style: none;
   display: flex;
-  margin-top: 100px;
 }
 
 #main-description {
   padding: 2rem;
   border-radius: 6px;
-  background-color: #140524;
+  background-color: #06571b;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 main {
   position: relative;
-  top: 100px;
+  top: 61px;
+  height: 478px;
+    background-color: #14290a;
+    overflow: auto;
+}
+
+h2#examples {
+  text-align: left;
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 7px 0 1.5rem 7px;
+  color: #fff;
+}
+
+menu {
+  display: flex;
+  text-align: left;
+  margin-block-start: 0;
+}
+
+div#tab-content {
+  color: #fff;
+  text-align: left;
+  margin: 0 0 20px 54px;
+  border: 2px solid #57d5a7;
+  padding-left: 17px;
+  border-radius: 10px;
+  width: 40vw;
 }
 
 
