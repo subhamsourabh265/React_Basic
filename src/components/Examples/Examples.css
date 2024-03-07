@@ -1,0 +1,15 @@
+  menu {
+    display: flex;
+    text-align: left;
+    margin-block-start: 0;
+  }
+  
+  div#tab-content {
+    color: #fff;
+    text-align: left;
+    margin: 0 0 20px 54px;
+    border: 2px solid #57d5a7;
+    padding-left: 17px;
+    border-radius: 10px;
+    width: 40vw;
+  }
